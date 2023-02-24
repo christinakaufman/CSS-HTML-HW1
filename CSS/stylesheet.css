@@ -8,7 +8,7 @@ img {
 }
 
 figure > img {
-  width: 2px;
+  width: 0.5px;
   text-align: center;
 }
 
