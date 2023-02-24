@@ -1,8 +1,5 @@
 body {
-  background-color: blanchedalmond;
-}
-body {
-  background-color: paleturquoise;
+  background-color: #f1e9e6;
 }
 
 img {
@@ -13,4 +10,24 @@ img {
 figure > img {
   width: 2px;
   text-align: center;
+}
+
+header {
+  background-color: #c7a79d;
+  color: white;
+  padding: 25px;
+  text-align: center;
+  border-color: white;
+  border-radius: 5px;
+  font-size: xx-large;
+}
+
+nav {
+  background-color: #b99284;
+  color: white;
+  padding: 10px;
+  text-align: center;
+  border-color: white;
+  border-radius: 5px;
+  font-size: medium;
 }
