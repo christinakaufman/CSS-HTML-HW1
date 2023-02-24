@@ -1,6 +1,57 @@
-body {
-  background-color: blanchedalmond;
+.wrapper {
+  background-color: #fdfce3;
 }
-body {
-  background-color: paleturquoise;
+
+header {
+  background-color: #ff908c;
+  border: 2px solid black;
+  padding: 25px;
+  margin: 15px;
+  text-align: center;
+  color: whitesmoke;
+}
+
+nav {
+  background-color: #ce54e8;
+  margin: 10px;
+  border-bottom: 1px solid black;
+  padding-bottom: 5px;
+}
+
+a {
+  text-decoration: none;
+  font-size: 1.1rem;
+}
+
+/* unvisited link */
+a:link {
+  color: yellow;
+}
+
+/* visited link */
+a:visited {
+  color: black;
+}
+
+/* mouse over link */
+a:hover {
+  color: hotpink;
+  background-color: honeydew;
+  padding: 2px;
+}
+
+/* selected link */
+a:active {
+  color: black;
+}
+
+main {
+  background-color: #6e69ff;
+}
+
+footer {
+  background-color: #54c0e8;
+  padding: 25px;
+  text-align: center;
+  color: whitesmoke;
 }
