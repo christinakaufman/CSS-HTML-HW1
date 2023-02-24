@@ -7,6 +7,7 @@ img {
   height: 300px;
   align-items: center;
   float: right;
+  border-radius: 5px;
 }
 
 figure > img {
@@ -46,7 +47,7 @@ nav {
 
 /* unvisited link */
 a:link {
-  color: white;
+  color: whitesmoke;
   text-decoration: none;
 }
 
@@ -60,6 +61,8 @@ a:visited {
 a:hover {
   color: #d5bdb5;
   text-decoration: none;
+  background-color: #b99284;
+  border-radius: 3px;
 }
 
 /* selected link */
@@ -73,6 +76,7 @@ th,
 td {
   border: 1px solid;
   background-color: #e3d3ce;
-  widows: 10%;
+  widows: 20%;
   text-align: center;
+  border-radius: 2px;
 }
