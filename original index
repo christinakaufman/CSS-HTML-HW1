@@ -65,6 +65,11 @@
       </p>
 
       <br />
+      <figure>
+        <a href="./photos/family.JPG" target="family">
+          <img class="responsive-main" src="./photos/family.jpg" alt="family" />
+        </a>
+      </figure>
       <p>
         As a motivated learner and hard worker, I strive to give my all to
         everything and will take the initiative to lead whenever required. I am
@@ -76,11 +81,6 @@
         achieve success.
       </p>
       <br />
-      <figure>
-        <a href="./photos/family.JPG" target="family">
-          <img class="responsive-main" src="./photos/family.jpg" alt="family" />
-        </a>
-      </figure>
       <table>
         <tr>
           <th>Contact</th>
