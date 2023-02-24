@@ -4,3 +4,13 @@ body {
 body {
   background-color: paleturquoise;
 }
+
+img {
+  max-width: 100%;
+  height: auto;
+}
+
+figure > img {
+  width: 2px;
+  text-align: center;
+}
