@@ -3,19 +3,24 @@
 }
 
 header {
-  background-color: #ff908c;
+  background-color: #3a2d73;
   border: 2px solid black;
-  padding: 25px;
+  padding: 15px;
   margin: 15px;
   text-align: center;
   color: whitesmoke;
+  font-size: x-large;
+  line-height: 1.3em;
 }
 
 nav {
-  background-color: #ce54e8;
-  margin: 10px;
-  border-bottom: 1px solid black;
-  padding-bottom: 5px;
+  background-color: #7252c1;
+  margin: 15px;
+  border: 2px solid black;
+  padding: 10px;
+  text-align: center;
+  text-po
+  color: whitesmoke;
 }
 
 a {
@@ -25,7 +30,7 @@ a {
 
 /* unvisited link */
 a:link {
-  color: yellow;
+  color: whitesmoke;
 }
 
 /* visited link */
@@ -35,9 +40,9 @@ a:visited {
 
 /* mouse over link */
 a:hover {
-  color: hotpink;
-  background-color: honeydew;
-  padding: 2px;
+  color: #50d9ad;
+  background-color: #7252c1;
+  padding: 1px;
 }
 
 /* selected link */
@@ -46,12 +51,14 @@ a:active {
 }
 
 main {
-  background-color: #6e69ff;
+  background-color: #fdfce3;
 }
 
 footer {
-  background-color: #54c0e8;
-  padding: 25px;
+  background-color: #7252c1;
+  padding: 10px;
   text-align: center;
   color: whitesmoke;
+  margin: 15px;
+  border: 2px solid black;
 }
